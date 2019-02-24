@@ -1,2 +1,3 @@
-x = input()
-print(x)
+x = int(input())
+y = x*x
+print(y)
