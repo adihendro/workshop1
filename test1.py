@@ -1,3 +1,3 @@
 x = int(input())
-y = x*x*x
+y = x+2
 print(y)
